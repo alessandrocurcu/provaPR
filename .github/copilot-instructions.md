@@ -4,6 +4,10 @@
 - Always respond in English
 - Always provide examples in JavaScript
 
+### Stack
+
+- Use `pnpm` instead of `npm`
+
 ### Naming Conventions for variables (for JavaScript and TypeScript)
 
 - Use camelCase for variables and parameters

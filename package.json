@@ -1,0 +1,12 @@
+{
+  "name": "provapr",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "packageManager": "pnpm@10.7.0",
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
